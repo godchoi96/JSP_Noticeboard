@@ -1,0 +1,135 @@
+28-Sep-2021 21:13:16.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/8.5.71
+28-Sep-2021 21:13:16.888 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Sep 9 2021 18:43:14 UTC
+28-Sep-2021 21:13:16.888 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  8.5.71.0
+28-Sep-2021 21:13:16.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 10
+28-Sep-2021 21:13:16.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+28-Sep-2021 21:13:16.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+28-Sep-2021 21:13:16.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-16.0.2
+28-Sep-2021 21:13:16.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          16.0.2+7-67
+28-Sep-2021 21:13:16.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+28-Sep-2021 21:13:16.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:13:16.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:13:16.891 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Sep-2021 21:13:16.891 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+28-Sep-2021 21:13:16.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+28-Sep-2021 21:13:16.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Sep-2021 21:13:16.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Sep-2021 21:13:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\conf\logging.properties
+28-Sep-2021 21:13:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Sep-2021 21:13:16.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+28-Sep-2021 21:13:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Sep-2021 21:13:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+28-Sep-2021 21:13:16.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:13:16.895 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:13:16.895 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\temp
+28-Sep-2021 21:13:16.895 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.0]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [1.2.31]을(를) 로드했습니다.
+28-Sep-2021 21:13:16.896 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 용량정보들: IPv6 [true], sendfile [true], accept filters [false], random [true].
+28-Sep-2021 21:13:16.896 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL 설정: useAprConnector [false], useOpenSSL [true]
+28-Sep-2021 21:13:16.901 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 1.1.1l  24 Aug 2021]
+28-Sep-2021 21:13:16.935 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+28-Sep-2021 21:13:17.027 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Sep-2021 21:13:17.036 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 525 ms
+28-Sep-2021 21:13:17.080 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+28-Sep-2021 21:13:17.081 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/8.5.71]
+28-Sep-2021 21:13:17.092 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\docs]을(를) 배치합니다.
+28-Sep-2021 21:13:17.294 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\docs]에 대한 배치가 [200] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:17.297 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\examples]을(를) 배치합니다.
+28-Sep-2021 21:13:17.689 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\examples]에 대한 배치가 [392] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:17.690 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\host-manager]을(를) 배치합니다.
+28-Sep-2021 21:13:17.726 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\host-manager]에 대한 배치가 [36] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:17.728 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\manager]을(를) 배치합니다.
+28-Sep-2021 21:13:17.768 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\manager]에 대한 배치가 [40] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:17.771 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\ROOT]을(를) 배치합니다.
+28-Sep-2021 21:13:17.794 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\ROOT]에 대한 배치가 [22] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:17.796 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+28-Sep-2021 21:13:17.807 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 770 ms
+28-Sep-2021 21:13:47.872 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/8.5.71
+28-Sep-2021 21:13:47.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Sep 9 2021 18:43:14 UTC
+28-Sep-2021 21:13:47.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  8.5.71.0
+28-Sep-2021 21:13:47.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 10
+28-Sep-2021 21:13:47.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+28-Sep-2021 21:13:47.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+28-Sep-2021 21:13:47.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-16.0.2
+28-Sep-2021 21:13:47.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          16.0.2+7-67
+28-Sep-2021 21:13:47.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+28-Sep-2021 21:13:47.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:13:47.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:13:47.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Sep-2021 21:13:47.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+28-Sep-2021 21:13:47.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+28-Sep-2021 21:13:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Sep-2021 21:13:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Sep-2021 21:13:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\conf\logging.properties
+28-Sep-2021 21:13:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Sep-2021 21:13:47.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+28-Sep-2021 21:13:47.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Sep-2021 21:13:47.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+28-Sep-2021 21:13:47.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:13:47.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:13:47.879 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\temp
+28-Sep-2021 21:13:47.880 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.0]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [1.2.31]을(를) 로드했습니다.
+28-Sep-2021 21:13:47.880 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 용량정보들: IPv6 [true], sendfile [true], accept filters [false], random [true].
+28-Sep-2021 21:13:47.881 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL 설정: useAprConnector [false], useOpenSSL [true]
+28-Sep-2021 21:13:47.885 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 1.1.1l  24 Aug 2021]
+28-Sep-2021 21:13:47.918 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+28-Sep-2021 21:13:47.982 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Sep-2021 21:13:47.991 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 423 ms
+28-Sep-2021 21:13:48.024 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+28-Sep-2021 21:13:48.025 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/8.5.71]
+28-Sep-2021 21:13:48.032 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\docs]을(를) 배치합니다.
+28-Sep-2021 21:13:48.219 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\docs]에 대한 배치가 [186] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:48.221 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\examples]을(를) 배치합니다.
+28-Sep-2021 21:13:48.577 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\examples]에 대한 배치가 [356] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:48.579 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\host-manager]을(를) 배치합니다.
+28-Sep-2021 21:13:48.609 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\host-manager]에 대한 배치가 [30] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:48.610 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\manager]을(를) 배치합니다.
+28-Sep-2021 21:13:48.645 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\manager]에 대한 배치가 [35] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:48.646 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\ROOT]을(를) 배치합니다.
+28-Sep-2021 21:13:48.667 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\ROOT]에 대한 배치가 [21] 밀리초에 완료되었습니다.
+28-Sep-2021 21:13:48.669 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+28-Sep-2021 21:13:48.677 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 684 ms
+28-Sep-2021 21:14:19.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/8.5.71
+28-Sep-2021 21:14:19.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Sep 9 2021 18:43:14 UTC
+28-Sep-2021 21:14:19.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  8.5.71.0
+28-Sep-2021 21:14:19.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 10
+28-Sep-2021 21:14:19.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+28-Sep-2021 21:14:19.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+28-Sep-2021 21:14:19.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-16.0.2
+28-Sep-2021 21:14:19.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          16.0.2+7-67
+28-Sep-2021 21:14:19.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+28-Sep-2021 21:14:19.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:14:19.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:14:19.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Sep-2021 21:14:19.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+28-Sep-2021 21:14:19.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+28-Sep-2021 21:14:19.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Sep-2021 21:14:19.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Sep-2021 21:14:19.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\conf\logging.properties
+28-Sep-2021 21:14:19.698 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Sep-2021 21:14:19.698 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+28-Sep-2021 21:14:19.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Sep-2021 21:14:19.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+28-Sep-2021 21:14:19.699 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:14:19.700 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71
+28-Sep-2021 21:14:19.700 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\temp
+28-Sep-2021 21:14:19.701 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.0]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [1.2.31]을(를) 로드했습니다.
+28-Sep-2021 21:14:19.701 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 용량정보들: IPv6 [true], sendfile [true], accept filters [false], random [true].
+28-Sep-2021 21:14:19.702 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL 설정: useAprConnector [false], useOpenSSL [true]
+28-Sep-2021 21:14:19.708 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 1.1.1l  24 Aug 2021]
+28-Sep-2021 21:14:19.742 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+28-Sep-2021 21:14:19.813 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+28-Sep-2021 21:14:19.822 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 442 ms
+28-Sep-2021 21:14:19.862 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+28-Sep-2021 21:14:19.863 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/8.5.71]
+28-Sep-2021 21:14:19.872 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\docs]을(를) 배치합니다.
+28-Sep-2021 21:14:20.082 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\docs]에 대한 배치가 [209] 밀리초에 완료되었습니다.
+28-Sep-2021 21:14:20.084 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\examples]을(를) 배치합니다.
+28-Sep-2021 21:14:20.471 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\examples]에 대한 배치가 [388] 밀리초에 완료되었습니다.
+28-Sep-2021 21:14:20.472 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\host-manager]을(를) 배치합니다.
+28-Sep-2021 21:14:20.506 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\host-manager]에 대한 배치가 [34] 밀리초에 완료되었습니다.
+28-Sep-2021 21:14:20.507 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\manager]을(를) 배치합니다.
+28-Sep-2021 21:14:20.545 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\manager]에 대한 배치가 [38] 밀리초에 완료되었습니다.
+28-Sep-2021 21:14:20.546 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\ROOT]을(를) 배치합니다.
+28-Sep-2021 21:14:20.568 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\Users\82107\Desktop\정리\Major\JSP_Noticeboard\apache-tomcat-8.5.71\webapps\ROOT]에 대한 배치가 [22] 밀리초에 완료되었습니다.
+28-Sep-2021 21:14:20.570 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+28-Sep-2021 21:14:20.577 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 754 ms
