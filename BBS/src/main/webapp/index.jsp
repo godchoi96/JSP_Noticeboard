@@ -2,11 +2,18 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
+
+<!-- head -->
 <head>
 <meta charset="UTF-8">
-<title>Hello World</title>
+<title>JSP 게시판 웹 사이트</title>
 </head>
+
+<!-- body -->
 <body>
-Hello World
+
+	<script>
+		location.href = 'login.jsp'; // 로그인 페이지로 이동
+	</script>
 </body>
 </html>
