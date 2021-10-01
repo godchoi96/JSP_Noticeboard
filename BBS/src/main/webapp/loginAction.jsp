@@ -23,9 +23,21 @@
 <body>
 
 	<% 
+		String userID = null;
+		if(session.getAttribute("userID") !=  null) {
+			userID = (String) session.getAttribute("userID");
+		} // 현재 로그인한 계정의 세션을 관리
+		if(userID != null) {
+			PrintWriter script = response.getWriter();
+			script.println("<script>");
+			script.println("alert('이미 로그인이 되어있습니다.')");
+			script.println("location.href = 'main.jsp'");
+			script.println("</script>");
+		}
 		UserDAO userDAO = new UserDAO();
 		int result = userDAO.login(user.getUserID(), user.getUserPassword());
 		if(result == 1) { // 정상적으로 로그인 되는 경우
+			session.setAttribute("userID", user.getUserID());
 			PrintWriter script = response.getWriter();
 			script.println("<script>");
 			script.println("location.href = 'main.jsp'");

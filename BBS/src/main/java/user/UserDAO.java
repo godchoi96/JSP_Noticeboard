@@ -13,7 +13,7 @@ public class UserDAO {
 	private PreparedStatement pstmt;
 	private ResultSet rs;
 	
-	public UserDAO() {
+	public UserDAO() { // mySQL 연동
 		try {
 			String dbURL = "jdbc:mysql://localhost:3306/BBS?characterEncoding=UTF-8&serverTimezone=UTC";
 			String dbID = "root";

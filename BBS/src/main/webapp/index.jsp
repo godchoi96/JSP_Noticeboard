@@ -13,7 +13,7 @@
 <body>
 
 	<script>
-		location.href = 'login.jsp'; // 로그인 페이지로 이동
+		location.href = 'main.jsp'; // 메인 페이지로 이동
 	</script>
 </body>
 </html>
